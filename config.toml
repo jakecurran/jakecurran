@@ -1,0 +1,6 @@
+base_url = "https://jakecurran.com"
+compile_sass = true
+highlight_code = true
+build_search_index = true
+
+[extra]
