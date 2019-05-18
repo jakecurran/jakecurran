@@ -11,7 +11,7 @@ for any inquiries.
 
 ## Links
 
-- [Resume](resume.pdf)
+- [Resume](/resume.pdf)
 
 - [GitHub](https://github.com/jakecurran)
 - [LinkedIn](https://linkedin.com/in/jakecurran)
