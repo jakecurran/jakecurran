@@ -9,9 +9,10 @@ systems level languages and back end development.
 Please contact me via email at [`jake@jakecurran.com`](mailto:jake@jakecurran.com)
 for any inquiries.
 
-## Online profiles
+## Links
+
+- [Resume](resume.pdf)
 
 - [GitHub](https://github.com/jakecurran)
 - [LinkedIn](https://linkedin.com/in/jakecurran)
-
 - [Keybase](https://keybase.io/jakecurran)
