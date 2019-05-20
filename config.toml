@@ -9,3 +9,4 @@ theme = "jakecurran-theme"
 
 [extra]
 name = "Jake Curran"
+favicon = "favicon.ico"
